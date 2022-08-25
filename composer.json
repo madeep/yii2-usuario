@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-usuario",
+    "name": "deepha/yii2-usuario",
     "description": "Highly customizable and extensible user management, authentication, and authorization Yii2 extension",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
@@ -9,7 +9,7 @@
         "source": "https://github.com/2amigos/yii2-usuario"
     },
     "keywords": [
-        "2amigos",
+        "deepha",
         "yii",
         "yii2",
         "yii 2",
@@ -25,22 +25,15 @@
     ],
     "authors": [
         {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
-            "role": "Developer"
-        },
-        {
-            "name": "Antonio Ramirez Cobos",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
+            "name": "Digi Artisan",
+            "email": "info@digiartisan.it",
             "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=5.5",
+        "php": ">=7.4",
         "2amigos/yii2-selectize-widget": "^1.1",
         "yiisoft/yii2-authclient": "^2.1",
         "yiisoft/yii2-httpclient": "^2.0",
