@@ -10,7 +10,7 @@
  */
 
 use Da\User\Model\User;
-use yii\bootstrap\Nav;
+use yii\bootstrap4\Nav;
 use yii\helpers\Html;
 use yii\web\View;
 use Da\User\Module as UserModule;
@@ -51,7 +51,7 @@ $module = Yii::$app->getModule('user');
                                 <?= Nav::widget(
                                     [
                                         'options' => [
-                                            'class' => 'nav-pills nav-stacked',
+                                            'class' => 'nav-pills nav-stacked flex-column',
                                         ],
                                         'items' => [
                                             [

@@ -44,7 +44,7 @@
         "2amigos/yii2-selectize-widget": "^1.1",
         "yiisoft/yii2-authclient": "^2.1",
         "yiisoft/yii2-httpclient": "^2.0",
-        "yiisoft/yii2-bootstrap": "^2.0",
+        "yiisoft/yii2-bootstrap4": "^2.0",
         "yetopen/yii2-sms-sender-interface": "^0.1.1"
     },
     "suggest": {
